@@ -8,8 +8,9 @@
 
 
 # This project is from Github,
-#https://github.com/brett-davi5/Python---Math-Quiz-Generator
-# This is a Free To Use Project
+#https://github.com/rt23456p/Math-Generator-Alpha- is the main pay of the document
+# This is a Free To Use Project, You may add, delete ,copy, modify anyway you want
+# Don't pay for this project!
 from random import randint
 import random
 
